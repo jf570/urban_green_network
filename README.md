@@ -8,7 +8,7 @@
 ### Предложенный метод
 ![image](https://user-images.githubusercontent.com/113199314/199528977-e699e223-bb5e-4978-9169-c51edf6576a8.png)
 ![image](https://user-images.githubusercontent.com/113199314/200620563-2d017a39-0b65-4392-97f1-aaf1a9a63b7b.png)
-![image](https://user-images.githubusercontent.com/113199314/200620243-da2aea26-255a-4a66-8cfb-ac300ba1c8b7.png)
+![image](https://user-images.githubusercontent.com/113199314/200621076-0114110d-e31b-48cf-8f4a-a4f9dbe21542.png)
 
 ### Проблема метода
 С точки зрения краткости связи двух точек столкнулся с этим: зеленый коридор пролегает через граф УДС, где нельзя озеленить, сажать деревья ввиду того корни прорастаю глубоко и могут сконфликтовать с сетями инженерной инфраструктур (трубопровода, ЛЭП, канализация и т.д.).
