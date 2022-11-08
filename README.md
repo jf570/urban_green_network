@@ -7,7 +7,7 @@
 Коридором выступает УДС. 
 ### Предложенный метод
 ![image](https://user-images.githubusercontent.com/113199314/199528977-e699e223-bb5e-4978-9169-c51edf6576a8.png)
-![image](https://user-images.githubusercontent.com/113199314/199529400-2df60772-60bf-4be2-b173-753f2cd30252.png)
+![image](https://user-images.githubusercontent.com/113199314/200620563-2d017a39-0b65-4392-97f1-aaf1a9a63b7b.png)
 ![image](https://user-images.githubusercontent.com/113199314/200620243-da2aea26-255a-4a66-8cfb-ac300ba1c8b7.png)
 
 ### Проблема метода
