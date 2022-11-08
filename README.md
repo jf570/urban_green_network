@@ -1,4 +1,4 @@
-# urban green space network
+# urban_green_space_network
 
 ### Тема 
 Методы оптимального планирования зеленого каркаса
