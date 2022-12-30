@@ -17,6 +17,10 @@
 ![Диаграмма без названия drawio](https://user-images.githubusercontent.com/113199314/199532156-2e81d798-e883-4f87-a114-e6cc59b4314e.png)
 
 ## Схема данных и примитивный алогоритм 
+### Cхема данных
+https://docs.google.com/document/d/1l9KtydzJfLBQTftYc-mhnDh1vBlkXG9Ewv8GeY6xWVw/edit?usp=sharing
+####
+
 ### Метод
 ![scheme](https://user-images.githubusercontent.com/113199314/208105995-97875f3a-bf40-4415-9c06-accc58871902.jpg)
 ### Cхема данных
